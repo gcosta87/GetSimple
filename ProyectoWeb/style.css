@@ -1,0 +1,221 @@
+/*	Global	*/
+/***********/
+
+*{
+	margin:0;
+	padding:0;
+	border:0;
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box; 
+	color: #f0f0f0;
+}
+
+
+body{
+	background:url('images/fondo.png') no-repeat fixed  #ccc;
+	background-size: auto auto;
+	font-family:'Open Sans',sans-serif;
+	font-size:1em;
+}
+
+a, a:link, a:visited{
+	text-decoration:none;
+	font-weight:bold;
+}
+
+a:hover{
+	
+}
+
+ul,ol{
+	margin-left:30px;
+}
+/*	Header	*/
+/***********/
+.header{
+	position:fixed;
+	top:0;
+	width:100%;
+	height:45px;
+	background: rgba(0,0,0,0.75);	
+	padding:5px 10px;
+	z-index:1;
+}
+
+
+.siteName{
+	float:left;
+	color:#ccc;
+	padding:0;
+	margin:0;	
+}
+.siteName h1{
+	font-size:1.1em;		
+}
+.siteName h1 a{
+	
+}
+
+.siteName img{
+	width:35px;
+	height:35px;
+	vertical-align:middle;
+}
+
+.menu{
+	float:right;	
+}
+
+.menu ul{
+	list-style:none;
+}
+
+.menu ul li{
+	display:inline;
+	font-size:0.8em;
+	margin:2px 8px;
+}
+
+.menu ul li.current:before{
+	content:'» ';
+}
+.menu ul li a{
+	color:#ccc;
+}
+
+.menu ul li a:hover{
+	color:white;
+}
+
+
+/*	Contenido	*/
+/***********/
+.page{
+	margin:70px auto;
+	width:960px;
+	background: rgba(0,0,0,0.45);
+	border-radius: 12px;
+	padding:15px 10px;
+	clear:both;
+	position:relative;
+}
+.page .redesSociales{
+	position:absolute;
+	right:0px;	
+}
+.page .redesSociales a{
+	margin:0px 10px;
+	font-size:1.25em;
+}
+.presentacion{
+	width:940px;
+	height:500px;
+	background: url('images/presentacion.png') no-repeat;
+	margin: 35px 0;
+	position:relative;
+}
+
+.presentacion .slogan{
+	position:absolute;
+	top:0; bottom:0; left:0; right:0;	
+	height:80px;	
+	text-align:center;
+	color:white;
+	font-size:2em;
+	background:rgba(20,20,25,0.5);
+	padding:20px 10px;
+	margin:auto;
+}
+.presentacion .descripcion{
+	position:absolute;
+	width:70%;
+	top:350px;  bottom:0; left:0; right:0;	
+	text-align:center;
+	color:white;
+	padding:0 50px;
+	margin:0 auto;
+}
+
+
+
+.conteiner{
+	margin:50px 0 50px 0;
+}
+
+
+.conteiner h2{		
+	border-bottom: 1px solid #ccc;
+	padding:5px;
+	margin-bottom:10px; 
+	position:relative;
+}
+.conteiner h2 .data{
+	position:absolute;
+	top:-5px;
+	right:5px;
+	font-size:0.6em;
+}
+.conteiner h2 .data span {
+	margin-left:20px;
+}
+
+.conteiner .content{
+	margin-left:30px;
+	font-size:0.9em;
+}
+
+.conteiner .content p{
+	text-indent: 10px;
+}
+
+/*	Footer	*/
+/***********/
+
+.footer{
+	margin:20px 10px 10px 10px;
+	text-align:center;
+	font-size:0.8em;	
+}
+.footer .nombre{
+	font-size:1.2em;
+	font-weight:bold;	
+}
+.footer .data i{
+	margin-left:10px;
+}
+.footer .creditos{
+	margin-top:10px;
+	text-align:right;
+}
+
+
+
+/*	Otros	*/
+/***********/
+.columnaDe3{
+	width:100%;	
+	padding:10px;	
+	margin-top:30px;
+}
+
+.itemColumna,.ultimoItem{	
+	width:30%;
+	margin: 14px;
+	padding:5px 10px;
+	border-radius: 8px 20px;
+	border:2px solid #ccc;
+	text-align:center;
+	background:rgba(20,20,25,0.4)
+}
+
+.itemColumna{
+	float:left;
+}
+.ultimoItem{
+	float:right;
+}
+
+.itemColumna i,.ultimoItem i{	
+	margin:15px 0;
+}
