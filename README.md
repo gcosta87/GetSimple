@@ -1,7 +1,7 @@
 GetSimple
 =========
 
-En este repositiorio se estaran colocando algunos pequeños temas/templates para el CMS GetSimple (www.get-simple.info). Varias de estas templates las podras encontrar en [GSTemplates.com.ar](http://www.gstemplate.com.ar), sino futuramente encontraras dicho sitio alojado en algun subdominio de [libreware](http://www.libreware.com.ar)
+En este repositiorio se estaran colocando algunos pequeños temas/templates para el CMS GetSimple (www.get-simple.info). Varias de estas templates las podras encontrar en [GSTemplates.com.ar](http://www.gstemplates.com.ar), sino futuramente encontraras dicho sitio alojado en algun subdominio de [libreware](http://www.libreware.com.ar)
 
 Son humildes aportes,no soy diseñador :D. En algunos casos sirven de base para un futuro Sitio.
 
@@ -19,7 +19,7 @@ Por lo general:
 ##Gris##
 Esta template es ultra simple, y pretende ser base para una
 
-![Captura de Gris](https://github.com/gcosta87/GetSimple/blob/master/Gris/images/screenshot.png?raw=true)
+![Captura de Gris](http://www.gstemplates.com.ar/datos/screenshots/gris.thumb.png)
 
 
 
@@ -28,5 +28,5 @@ Inspirada en varios estilos usados actualmente (Bootstrap), hace uso de transpar
 
 Posee varias plantillas definidas (home.php, templateLimpia.php, etc...)
 
-![Captura de Gris](https://github.com/gcosta87/GetSimple/blob/master/ProyectoWeb/images/screenshot.png?raw=true)
+![Captura de ProyectoWeb](http://www.gstemplates.com.ar/datos/screenshots/proyectoweb.thumb.png)
 
