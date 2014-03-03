@@ -1,7 +1,7 @@
 GetSimple
 =========
 
-En este repositiorio se estaran colocando algunos pequeños temas/templates para el CMS GetSimple (www.get-simple.info).
+En este repositiorio se estaran colocando algunos pequeños temas/templates para el CMS GetSimple (www.get-simple.info). Varias de estas templates las podras encontrar en [GSTemplates.com.ar](http://www.gstemplate.com.ar), sino futuramente encontraras dicho sitio alojado en algun subdominio de [libreware](http://www.libreware.com.ar)
 
 Son humildes aportes,no soy diseñador :D. En algunos casos sirven de base para un futuro Sitio.
 
