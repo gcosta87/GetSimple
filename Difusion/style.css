@@ -1,0 +1,151 @@
+/*	GLOBAL	*/
+/***************/
+*{
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box; 
+	padding:0;
+	margin:0;
+	color:white;
+	
+}
+
+a, a:visited,a:link{
+	text-decoration:none;
+	font-weight:bold;
+}
+
+a:hover{
+	text-decoration:none;
+}
+ul,ol{
+	margin-left:40px;
+}
+body{
+	background:#c0c0c0;    
+}
+
+.page{	
+	padding:10px 0px 25px 0px;	
+	background:yellowgreen;    
+	margin:30px auto;
+	border-radius:10px;
+	box-shadow:6px 10px 8px #aaa;
+}
+
+
+
+/*	HEADER	*/
+/***************/
+
+.redesSociales{
+	text-align:center;
+	margin-bottom:10px;
+
+}
+
+.redesSociales a i{
+	margin-left:20px;
+	transition:transform 1s;
+}
+
+.redesSociales a i:hover{
+	transform: translate(0,-5px);
+	
+}
+
+header{
+	
+}
+
+header .logo{
+	transform: rotate(-20deg);
+	font-size:1.8em;
+	vertical-align:middle;
+}
+header h1{	
+	font-size:1.7em;
+	margin-bottom:20px;
+	line-height:0em;
+}
+
+header h1 span{
+	margin-left:6em;
+	font-size:0.6em;
+	font-style:italic;
+}
+
+header nav{	
+	
+}
+
+nav ul{
+	list-style:none;
+	margin-left:0;
+	//text-align:right;
+	margin-bottom:10px;
+}
+
+nav ul li{
+	display:inline;
+	margin-left:12px;
+}
+nav ul li.current{
+	border-bottom:1px solid white;	
+	padding:2px;
+}
+
+/*	Content	*/
+/************/
+main{
+	margin-top:15px;
+}
+
+main h2{
+	font-size:1.2em;
+}
+
+main .data{
+	font-size:0.8em;
+}
+
+main .content{
+	font-size:0.9em;	
+}
+
+main .compartir{	
+	
+	font-size:120%;
+}
+main .compartir a{
+	margin-left:5px;
+}
+/*	FOOTER*/
+/**********/
+
+footer{
+	text-align:center;
+}
+
+footer .nombre{
+	font-weight:bold;
+	font-size:110%;
+}
+
+footer .data{
+	
+}
+
+footer .creditos,footer .creditos a{
+	text-align:right;
+	font-size:0.8em;
+}
+
+
+/*	Otros	*/
+/************/
+.add-bottom{margin-bottom:30px;}
+.add-half-bottom{margin-bottom:15px;}
+.add-min-bottom{margin-bottom:5px;}
+.caja {text-align:center;padding:0.5em;border:1px solid white;border-radius:10px;margin:20px 0px;font-size:0.8em;}
+.caja i{margin-bottom:5px;}
