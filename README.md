@@ -30,3 +30,10 @@ Posee varias plantillas definidas (home.php, templateLimpia.php, etc...)
 
 ![Captura de ProyectoWeb](http://www.gstemplates.com.ar/datos/screenshots/proyectoweb.thumb.png)
 
+
+
+##Difusión##
+Template minimalista. Hace uso de Skeleton para darle algo de diseño adaptativo. Util para destacar el texto, y definir estilos propios.
+
+![Captura de Difusión](http://www.gstemplates.com.ar/datos/screenshots/difusion.thumb.png)
+
