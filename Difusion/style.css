@@ -134,11 +134,13 @@ main .compartir a{
 
 footer{
 	text-align:center;
+	
 }
 
 footer .nombre{
 	font-weight:bold;
 	font-size:110%;
+	padding-top:10px;
 }
 
 footer .data{
