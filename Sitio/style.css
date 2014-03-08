@@ -145,10 +145,13 @@ main span.data{
 }
 
 main span.data span{
-margin-left:8px;
+margin-left:6px;
+margin-right:2px;
 }
+
 article{
 	margin:8px 2px 2px 5px;
+	padding:2px;
 	font-size:0.85em;
 }
 
