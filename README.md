@@ -33,7 +33,15 @@ Posee varias plantillas definidas (home.php, templateLimpia.php, etc...)
 
 
 ##Difusión##
-Template minimalista. Hace uso de Skeleton para darle algo de diseño adaptativo. Util para destacar el texto, y definir estilos propios.
+Template minimalista. Hace uso de [Skeleton](http://www.getskeleton.com/) para darle algo de diseño adaptativo. Util para destacar el texto, y definir estilos propios.
 
 ![Captura de Difusión](http://www.gstemplates.com.ar/datos/screenshots/difusion.thumb.png)
+
+
+
+
+##Sitio##
+Template simple y adaptativa, gracias al uso de [Skeleton](http://www.getskeleton.com/)  y la inclusión de  [RensposiveSlides.js](http://responsiveslides.com/) como slider, con el beneficio de ser adapatativo. 
+
+![Captura de Sitio](http://www.gstemplates.com.ar/datos/screenshots/sitio.thumb.png)
 
