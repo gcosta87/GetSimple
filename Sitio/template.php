@@ -153,7 +153,7 @@
 			<footer>
 				<p class="nombre"><?php get_site_name() ?></p>
 				<p class="data"><?php get_component('tagline') ?></p>
-				<p class="creditos">Fotos de <a href="http://fotogrph.com/grassy-green-461872367/" target="_blank">Fotogrph</a> | Diseño <a href="http://www.libreware.com.ar" target="_blank">Gonzalo Gabriel Costa</a></p>
+				<p class="creditos"><?php get_site_credits() ?> | Fotos de <a href="http://fotogrph.com/grassy-green-461872367/" target="_blank">Fotogrph</a> | Diseño <a href="http://www.libreware.com.ar" target="_blank">Gonzalo Gabriel Costa</a></p>
 			</footer>
 		</div>
 	</div>
